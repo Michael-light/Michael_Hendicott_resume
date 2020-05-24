@@ -1,0 +1,10 @@
+/* CSS Document */
+h2 {
+    text-decoration:underline;
+    color:red;
+}
+
+h2:hover {
+    text-decoration:none;
+    color:blue;
+}
